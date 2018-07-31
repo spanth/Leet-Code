@@ -1,2 +1,2 @@
 # Leet-Code
-Leet Code solutions
+Dump of leet code solutions in Java
